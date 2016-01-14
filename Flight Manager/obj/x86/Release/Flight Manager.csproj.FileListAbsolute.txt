@@ -1,0 +1,16 @@
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\bin\Release\Database\MainDatabase.sdf
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\bin\Release\Flight Manager.exe.config
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\bin\Release\Flight Manager.exe
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\bin\Release\Flight Manager.pdb
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\obj\x86\Release\Flight_Manager.Properties.Resources.resources
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\obj\x86\Release\Flight Manager.csproj.GenerateResource.Cache
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\obj\x86\Release\Flight Manager.exe
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\obj\x86\Release\Flight Manager.pdb
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\bin\Release\Flight Manager.exe.manifest
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\bin\Release\Flight Manager.application
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\obj\x86\Release\Flight_Manager.AuthForm.resources
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\obj\x86\Release\Flight_Manager.ManagerForm.resources
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\obj\x86\Release\Flight Manager.exe.manifest
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\obj\x86\Release\Flight Manager.application
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\obj\x86\Release\Flight_Manager.Forms.ArrivalEditorForm.resources
+C:\Users\Aluxian\Documents\Visual Studio 2010\Projects\Flight Manager\Flight Manager\obj\x86\Release\Flight_Manager.Forms.DepartureEditorForm.resources
